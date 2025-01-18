@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Ansh Kant👋</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img> -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh0047&label=Profile%20views&color=0e75b6&style=flat" alt="ansh0047" /> </p>
 
