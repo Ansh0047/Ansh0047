@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ansh Kant</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India</h3>
 
-<div align="right">
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-</div>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ansh0047&label=Profile%20views&color=0e75b6&style=flat" alt="ansh0047" /> 
 </p>
 
+---
 
 ### 🌟 About Me  
 - 🎓 Passionate about building impactful products  
@@ -18,8 +17,9 @@
 - 💬 Ask me about **MERN Stack, DSA & System Design**  
 - 📫 Reach me at **anshkant026@gmail.com**  
 
+---
 
-## 💻 Tech Stack  
+### 💻 Tech Stack  
 
 #### 📝 Programming Lanuguages  
 <p>
